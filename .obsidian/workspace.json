@@ -1,44 +1,62 @@
 {
   "main": {
-    "id": "01cdb265149dee8a",
+    "id": "0b132c88fa49a96c",
     "type": "split",
     "children": [
       {
-        "id": "75b2a1f4e95689a1",
+        "id": "378d14ceb8f81f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce3a2dc78f5c592",
+            "id": "1b5d44fcedf9c836",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Cubo/Planeación/Plan A.canvas",
                 "viewState": {
-                  "x": -91.6125259725963,
-                  "y": 352.5090673293374,
-                  "zoom": -1.0986083857218423
+                  "x": -184.41918886694893,
+                  "y": -732.3608595722164,
+                  "zoom": -1.1306459136456892
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Plan A"
             }
+          },
+          {
+            "id": "e4effe6f8640622f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cubo/Planeación/Untitled.canvas",
+                "viewState": {
+                  "x": -25.4000244140625,
+                  "y": -253.40000610351552,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "74d4ed75f5b11d4f",
+    "id": "42e2f225a7635228",
     "type": "split",
     "children": [
       {
-        "id": "c56ae11c3457ec0a",
+        "id": "95109f4932ef5342",
         "type": "tabs",
         "children": [
           {
-            "id": "9b0263a7856f3866",
+            "id": "eff6af4f69a4cac2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +68,7 @@
             }
           },
           {
-            "id": "f5ff8c528d16a885",
+            "id": "4da5f15db01ce323",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +85,7 @@
             }
           },
           {
-            "id": "62fd82eeb6007e34",
+            "id": "8f41a09bdeedeff0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "f2df60aa3d035f1d",
+    "id": "41eac5be106d2c51",
     "type": "split",
     "children": [
       {
-        "id": "3443896736ef7392",
+        "id": "4e91400221a04b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "11f34ee5b666bda6",
+            "id": "bf936260f886e1b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cubo/Planeación/Plan A.canvas",
+                "file": "Cubo/Planeación/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +124,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plan A"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "058d78a22f0f81a4",
+            "id": "ebfe29103a525bbb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cubo/Planeación/Plan A.canvas",
+                "file": "Cubo/Planeación/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Plan A"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "f18032803e72ee78",
+            "id": "7f7d04e00c87f36d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,23 +155,33 @@
             }
           },
           {
-            "id": "3d5aaa53341e2a9c",
+            "id": "9c0fb8290a4c86f9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cubo/Planeación/Plan A.canvas"
+                "file": "Cubo/Planeación/Untitled.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Plan A"
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "314c699a0ec06fb0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,14 +190,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ce3a2dc78f5c592",
+  "active": "e4effe6f8640622f",
   "lastOpenFiles": [
-    "Cubo/Planeación/Untitled.canvas",
+    "Cubo/Diagramas/Drawing 2025-01-18 21.34.43.excalidraw.md",
     "Cubo/Planeación/Plan A.canvas",
-    "Cubo/Planeación/Untitled.md",
+    "Cubo/Diagramas",
+    "Cubo/Planeación/Untitled.canvas",
     "Cubo/Planeación",
     "Cubo"
   ]
